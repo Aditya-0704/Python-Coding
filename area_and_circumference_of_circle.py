@@ -7,5 +7,4 @@ c=2*pi*r
 
 print("The area of a circle is", a)
 print("The circumference of a circle is", c)
-2
 
